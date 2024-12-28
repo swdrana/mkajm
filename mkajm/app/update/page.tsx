@@ -2,6 +2,7 @@
 import { useState } from "react";
 import axios from "axios";
 import Navbar from "../components/Navbar";
+import Home from "../page";
 
 export default function Update() {
   const [id, setId] = useState<number | string>("");
