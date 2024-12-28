@@ -33,10 +33,10 @@ export default function Navbar() {
 
             <li className=" ">
               <Link
-                href="/update"
+                href="/auth/signup"
                 className="bg-[#C3FD9F] text-[#4A8C2C] font-bold hover:bg-[#4A8C2C] border border-[#C3FD9F] hover:text-[#C3FD9F] py-2 px-6 rounded-md transition-all"
               >
-                Login
+                Sign Up
               </Link>
             </li>
           </ul>

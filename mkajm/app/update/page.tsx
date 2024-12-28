@@ -28,7 +28,6 @@ export default function Update() {
 
   return (
     <div>
-      <Navbar />
       <div className="p-8">
         <h1 className="text-xl font-semibold">Update Iftar Entry</h1>
         <div className="space-y-4">
